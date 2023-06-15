@@ -1,0 +1,12 @@
+C:\OOP\avbmfff-labs\Lab2\Isu.Extra\bin\Debug\net6.0\Isu.Extra.deps.json
+C:\OOP\avbmfff-labs\Lab2\Isu.Extra\bin\Debug\net6.0\Isu.Extra.dll
+C:\OOP\avbmfff-labs\Lab2\Isu.Extra\bin\Debug\net6.0\Isu.Extra.pdb
+C:\OOP\avbmfff-labs\Lab2\Isu.Extra\obj\Debug\net6.0\Isu.Extra.csproj.AssemblyReference.cache
+C:\OOP\avbmfff-labs\Lab2\Isu.Extra\obj\Debug\net6.0\Isu.Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\avbmfff-labs\Lab2\Isu.Extra\obj\Debug\net6.0\Isu.Extra.AssemblyInfoInputs.cache
+C:\OOP\avbmfff-labs\Lab2\Isu.Extra\obj\Debug\net6.0\Isu.Extra.AssemblyInfo.cs
+C:\OOP\avbmfff-labs\Lab2\Isu.Extra\obj\Debug\net6.0\Isu.Extra.csproj.CoreCompileInputs.cache
+C:\OOP\avbmfff-labs\Lab2\Isu.Extra\obj\Debug\net6.0\Isu.Extra.dll
+C:\OOP\avbmfff-labs\Lab2\Isu.Extra\obj\Debug\net6.0\refint\Isu.Extra.dll
+C:\OOP\avbmfff-labs\Lab2\Isu.Extra\obj\Debug\net6.0\Isu.Extra.pdb
+C:\OOP\avbmfff-labs\Lab2\Isu.Extra\obj\Debug\net6.0\ref\Isu.Extra.dll

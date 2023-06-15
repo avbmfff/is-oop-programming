@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IQ3ptc7FYxH4wZfKZKujPwRGLijLr1PHyEY+JYFxFTwqHA7G7R5tkRk/vWtq2dZsuQ0nS5rzsiS6UEr43SuClQ==",
+  "success": true,
+  "projectFilePath": "C:\\OOP\\avbmfff-labs\\Lab1\\Shops\\Shops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\annav\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

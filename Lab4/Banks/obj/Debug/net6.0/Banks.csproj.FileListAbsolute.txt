@@ -1,0 +1,15 @@
+C:\OOP\avbmfff-labs\Lab4\Banks\bin\Debug\net6.0\Banks.deps.json
+C:\OOP\avbmfff-labs\Lab4\Banks\bin\Debug\net6.0\Banks.dll
+C:\OOP\avbmfff-labs\Lab4\Banks\bin\Debug\net6.0\Banks.pdb
+C:\OOP\avbmfff-labs\Lab4\Banks\obj\Debug\net6.0\Banks.csproj.AssemblyReference.cache
+C:\OOP\avbmfff-labs\Lab4\Banks\obj\Debug\net6.0\Banks.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\avbmfff-labs\Lab4\Banks\obj\Debug\net6.0\Banks.AssemblyInfoInputs.cache
+C:\OOP\avbmfff-labs\Lab4\Banks\obj\Debug\net6.0\Banks.AssemblyInfo.cs
+C:\OOP\avbmfff-labs\Lab4\Banks\obj\Debug\net6.0\Banks.csproj.CoreCompileInputs.cache
+C:\OOP\avbmfff-labs\Lab4\Banks\obj\Debug\net6.0\Banks.dll
+C:\OOP\avbmfff-labs\Lab4\Banks\obj\Debug\net6.0\refint\Banks.dll
+C:\OOP\avbmfff-labs\Lab4\Banks\obj\Debug\net6.0\Banks.pdb
+C:\OOP\avbmfff-labs\Lab4\Banks\obj\Debug\net6.0\ref\Banks.dll
+C:\OOP\avbmfff-labs\Lab4\Banks\bin\Debug\net6.0\Backups.dll
+C:\OOP\avbmfff-labs\Lab4\Banks\bin\Debug\net6.0\Backups.pdb
+C:\OOP\avbmfff-labs\Lab4\Banks\obj\Debug\net6.0\Banks.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\OOP\avbmfff-labs\Lab5\Backups.Extra\obj\Debug\net6.0\Backups.Extra.csproj.AssemblyReference.cache
+C:\OOP\avbmfff-labs\Lab5\Backups.Extra\obj\Debug\net6.0\Backups.Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\avbmfff-labs\Lab5\Backups.Extra\obj\Debug\net6.0\Backups.Extra.AssemblyInfoInputs.cache
+C:\OOP\avbmfff-labs\Lab5\Backups.Extra\obj\Debug\net6.0\Backups.Extra.AssemblyInfo.cs
+C:\OOP\avbmfff-labs\Lab5\Backups.Extra\obj\Debug\net6.0\Backups.Extra.csproj.CoreCompileInputs.cache
+C:\OOP\avbmfff-labs\Lab5\Backups.Extra\bin\Debug\net6.0\Backups.Extra.deps.json
+C:\OOP\avbmfff-labs\Lab5\Backups.Extra\bin\Debug\net6.0\Backups.Extra.dll
+C:\OOP\avbmfff-labs\Lab5\Backups.Extra\bin\Debug\net6.0\Backups.Extra.pdb
+C:\OOP\avbmfff-labs\Lab5\Backups.Extra\bin\Debug\net6.0\Backups.dll
+C:\OOP\avbmfff-labs\Lab5\Backups.Extra\bin\Debug\net6.0\Backups.pdb
+C:\OOP\avbmfff-labs\Lab5\Backups.Extra\obj\Debug\net6.0\Backups.Extra.csproj.CopyComplete
+C:\OOP\avbmfff-labs\Lab5\Backups.Extra\obj\Debug\net6.0\Backups.Extra.dll
+C:\OOP\avbmfff-labs\Lab5\Backups.Extra\obj\Debug\net6.0\refint\Backups.Extra.dll
+C:\OOP\avbmfff-labs\Lab5\Backups.Extra\obj\Debug\net6.0\Backups.Extra.pdb
+C:\OOP\avbmfff-labs\Lab5\Backups.Extra\obj\Debug\net6.0\ref\Backups.Extra.dll

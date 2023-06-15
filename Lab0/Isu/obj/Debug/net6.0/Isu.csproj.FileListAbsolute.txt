@@ -1,0 +1,12 @@
+C:\OOP\avbmfff-labs\Lab0\Isu\obj\Debug\net6.0\Isu.csproj.AssemblyReference.cache
+C:\OOP\avbmfff-labs\Lab0\Isu\obj\Debug\net6.0\Isu.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\avbmfff-labs\Lab0\Isu\obj\Debug\net6.0\Isu.AssemblyInfoInputs.cache
+C:\OOP\avbmfff-labs\Lab0\Isu\obj\Debug\net6.0\Isu.AssemblyInfo.cs
+C:\OOP\avbmfff-labs\Lab0\Isu\obj\Debug\net6.0\Isu.csproj.CoreCompileInputs.cache
+C:\OOP\avbmfff-labs\Lab0\Isu\bin\Debug\net6.0\Isu.deps.json
+C:\OOP\avbmfff-labs\Lab0\Isu\bin\Debug\net6.0\Isu.dll
+C:\OOP\avbmfff-labs\Lab0\Isu\bin\Debug\net6.0\Isu.pdb
+C:\OOP\avbmfff-labs\Lab0\Isu\obj\Debug\net6.0\Isu.dll
+C:\OOP\avbmfff-labs\Lab0\Isu\obj\Debug\net6.0\refint\Isu.dll
+C:\OOP\avbmfff-labs\Lab0\Isu\obj\Debug\net6.0\Isu.pdb
+C:\OOP\avbmfff-labs\Lab0\Isu\obj\Debug\net6.0\ref\Isu.dll

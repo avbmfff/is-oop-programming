@@ -1,0 +1,24 @@
+C:\OOP\avbmfff-labs\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\OOP\avbmfff-labs\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\OOP\avbmfff-labs\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\OOP\avbmfff-labs\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\OOP\avbmfff-labs\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\avbmfff-labs\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\OOP\avbmfff-labs\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\OOP\avbmfff-labs\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\OOP\avbmfff-labs\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\OOP\avbmfff-labs\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\OOP\avbmfff-labs\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\OOP\avbmfff-labs\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\OOP\avbmfff-labs\Lab 6\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\OOP\avbmfff-labs\Lab 6\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\OOP\avbmfff-labs\Lab 6\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\OOP\avbmfff-labs\Lab 6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\OOP\avbmfff-labs\Lab 6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\avbmfff-labs\Lab 6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\OOP\avbmfff-labs\Lab 6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\OOP\avbmfff-labs\Lab 6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\OOP\avbmfff-labs\Lab 6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\OOP\avbmfff-labs\Lab 6\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\OOP\avbmfff-labs\Lab 6\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\OOP\avbmfff-labs\Lab 6\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

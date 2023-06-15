@@ -1,0 +1,210 @@
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\testhost.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\testhost.exe
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\MessageTest.deps.json
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\MessageTest.runtimeconfig.json
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\MessageTest.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\MessageTest.pdb
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\Microsoft.Office.Interop.Word.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\xunit.abstractions.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\xunit.assert.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\xunit.core.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\BusinessLayer.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\DataAccessLayer.dll
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\BusinessLayer.pdb
+C:\OOP\avbmfff-labs\MessageTest\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\OOP\avbmfff-labs\MessageTest\obj\Debug\net6.0\MessageTest.csproj.AssemblyReference.cache
+C:\OOP\avbmfff-labs\MessageTest\obj\Debug\net6.0\MessageTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\avbmfff-labs\MessageTest\obj\Debug\net6.0\MessageTest.AssemblyInfoInputs.cache
+C:\OOP\avbmfff-labs\MessageTest\obj\Debug\net6.0\MessageTest.AssemblyInfo.cs
+C:\OOP\avbmfff-labs\MessageTest\obj\Debug\net6.0\MessageTest.csproj.CoreCompileInputs.cache
+C:\OOP\avbmfff-labs\MessageTest\obj\Debug\net6.0\MessageTest.csproj.CopyComplete
+C:\OOP\avbmfff-labs\MessageTest\obj\Debug\net6.0\MessageTest.dll
+C:\OOP\avbmfff-labs\MessageTest\obj\Debug\net6.0\refint\MessageTest.dll
+C:\OOP\avbmfff-labs\MessageTest\obj\Debug\net6.0\MessageTest.pdb
+C:\OOP\avbmfff-labs\MessageTest\obj\Debug\net6.0\MessageTest.genruntimeconfig.cache
+C:\OOP\avbmfff-labs\MessageTest\obj\Debug\net6.0\ref\MessageTest.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\testhost.exe
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\testhost.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\MessageTest.deps.json
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\MessageTest.runtimeconfig.json
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\MessageTest.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\MessageTest.pdb
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\Microsoft.Office.Interop.Word.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\xunit.abstractions.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\xunit.assert.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\xunit.core.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\BusinessLayer.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\DataAccessLayer.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\BusinessLayer.pdb
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\obj\Debug\net6.0\MessageTest.csproj.AssemblyReference.cache
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\obj\Debug\net6.0\MessageTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\obj\Debug\net6.0\MessageTest.AssemblyInfoInputs.cache
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\obj\Debug\net6.0\MessageTest.AssemblyInfo.cs
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\obj\Debug\net6.0\MessageTest.csproj.CoreCompileInputs.cache
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\obj\Debug\net6.0\MessageTest.csproj.CopyComplete
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\obj\Debug\net6.0\MessageTest.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\obj\Debug\net6.0\refint\MessageTest.dll
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\obj\Debug\net6.0\MessageTest.pdb
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\obj\Debug\net6.0\MessageTest.genruntimeconfig.cache
+C:\OOP\avbmfff-labs\Lab 6\MessageTest\obj\Debug\net6.0\ref\MessageTest.dll

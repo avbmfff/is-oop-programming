@@ -1,0 +1,30 @@
+C:\OOP\avbmfff-labs\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\OOP\avbmfff-labs\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\OOP\avbmfff-labs\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\OOP\avbmfff-labs\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\OOP\avbmfff-labs\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\OOP\avbmfff-labs\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\OOP\avbmfff-labs\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\avbmfff-labs\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\OOP\avbmfff-labs\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\OOP\avbmfff-labs\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\OOP\avbmfff-labs\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\OOP\avbmfff-labs\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\OOP\avbmfff-labs\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\OOP\avbmfff-labs\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\OOP\avbmfff-labs\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\OOP\avbmfff-labs\Lab 6\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\OOP\avbmfff-labs\Lab 6\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\OOP\avbmfff-labs\Lab 6\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\OOP\avbmfff-labs\Lab 6\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\OOP\avbmfff-labs\Lab 6\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\OOP\avbmfff-labs\Lab 6\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\OOP\avbmfff-labs\Lab 6\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\avbmfff-labs\Lab 6\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\OOP\avbmfff-labs\Lab 6\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\OOP\avbmfff-labs\Lab 6\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\OOP\avbmfff-labs\Lab 6\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\OOP\avbmfff-labs\Lab 6\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\OOP\avbmfff-labs\Lab 6\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\OOP\avbmfff-labs\Lab 6\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\OOP\avbmfff-labs\Lab 6\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll

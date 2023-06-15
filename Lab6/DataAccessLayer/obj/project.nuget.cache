@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZL81gz7Ty2dt1yr7NA+s+UMTo2YYHLUiO0Au0aqET0xOe4h94vIlKQm7pTRsF97TJ8YzLqvxAU3E8Vx8gpmZ3A==",
+  "success": true,
+  "projectFilePath": "C:\\OOP\\avbmfff-labs\\Lab 6\\DataAccessLayer\\DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\annav\\.nuget\\packages\\microsoft.office.interop.word\\15.0.4797.1004\\microsoft.office.interop.word.15.0.4797.1004.nupkg.sha512"
+  ],
+  "logs": []
+}
